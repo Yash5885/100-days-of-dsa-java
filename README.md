@@ -35,4 +35,16 @@ My 100 Days of DSA journey in Java, solving LeetCode problems and tracking daily
 |  |
 | ------- |
 | [0901-online-stock-span](https://github.com/Yash5885/100-days-of-dsa-java/tree/master/0901-online-stock-span) |
+## Hash Table
+|  |
+| ------- |
+| [0242-valid-anagram](https://github.com/Yash5885/100-days-of-dsa-java/tree/master/0242-valid-anagram) |
+## String
+|  |
+| ------- |
+| [0242-valid-anagram](https://github.com/Yash5885/100-days-of-dsa-java/tree/master/0242-valid-anagram) |
+## Sorting
+|  |
+| ------- |
+| [0242-valid-anagram](https://github.com/Yash5885/100-days-of-dsa-java/tree/master/0242-valid-anagram) |
 <!---LeetCode Topics End-->
