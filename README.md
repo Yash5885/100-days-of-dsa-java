@@ -39,12 +39,18 @@ My 100 Days of DSA journey in Java, solving LeetCode problems and tracking daily
 |  |
 | ------- |
 | [0242-valid-anagram](https://github.com/Yash5885/100-days-of-dsa-java/tree/master/0242-valid-anagram) |
+| [0013-roman-to-integer](https://github.com/Yash5885/100-days-of-dsa-java/tree/master/0013-roman-to-integer) |
 ## String
 |  |
 | ------- |
 | [0242-valid-anagram](https://github.com/Yash5885/100-days-of-dsa-java/tree/master/0242-valid-anagram) |
+| [0013-roman-to-integer](https://github.com/Yash5885/100-days-of-dsa-java/tree/master/0013-roman-to-integer) |
 ## Sorting
 |  |
 | ------- |
 | [0242-valid-anagram](https://github.com/Yash5885/100-days-of-dsa-java/tree/master/0242-valid-anagram) |
+## Math
+|  |
+| ------- |
+| [0013-roman-to-integer](https://github.com/Yash5885/100-days-of-dsa-java/tree/master/0013-roman-to-integer) |
 <!---LeetCode Topics End-->
