@@ -49,6 +49,7 @@ My 100 Days of DSA journey in Java, solving LeetCode problems and tracking daily
 | [0005-longest-palindromic-substring](https://github.com/Yash5885/100-days-of-dsa-java/tree/master/0005-longest-palindromic-substring) |
 | [0151-reverse-words-in-a-string](https://github.com/Yash5885/100-days-of-dsa-java/tree/master/0151-reverse-words-in-a-string) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Yash5885/100-days-of-dsa-java/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0008-string-to-integer-atoi](https://github.com/Yash5885/100-days-of-dsa-java/tree/master/0008-string-to-integer-atoi) |
 ## Sorting
 |  |
 | ------- |
