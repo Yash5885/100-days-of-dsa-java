@@ -51,6 +51,7 @@ My 100 Days of DSA journey in Java, solving LeetCode problems and tracking daily
 | [0003-longest-substring-without-repeating-characters](https://github.com/Yash5885/100-days-of-dsa-java/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0008-string-to-integer-atoi](https://github.com/Yash5885/100-days-of-dsa-java/tree/master/0008-string-to-integer-atoi) |
 | [0686-repeated-string-match](https://github.com/Yash5885/100-days-of-dsa-java/tree/master/0686-repeated-string-match) |
+| [0014-longest-common-prefix](https://github.com/Yash5885/100-days-of-dsa-java/tree/master/0014-longest-common-prefix) |
 ## Sorting
 |  |
 | ------- |
@@ -76,4 +77,12 @@ My 100 Days of DSA journey in Java, solving LeetCode problems and tracking daily
 |  |
 | ------- |
 | [0686-repeated-string-match](https://github.com/Yash5885/100-days-of-dsa-java/tree/master/0686-repeated-string-match) |
+## Array
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/Yash5885/100-days-of-dsa-java/tree/master/0014-longest-common-prefix) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/Yash5885/100-days-of-dsa-java/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
