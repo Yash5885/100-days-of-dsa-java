@@ -54,6 +54,7 @@ My 100 Days of DSA journey in Java, solving LeetCode problems and tracking daily
 | [0008-string-to-integer-atoi](https://github.com/Yash5885/100-days-of-dsa-java/tree/master/0008-string-to-integer-atoi) |
 | [0686-repeated-string-match](https://github.com/Yash5885/100-days-of-dsa-java/tree/master/0686-repeated-string-match) |
 | [0014-longest-common-prefix](https://github.com/Yash5885/100-days-of-dsa-java/tree/master/0014-longest-common-prefix) |
+| [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/Yash5885/100-days-of-dsa-java/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
 ## Sorting
 |  |
 | ------- |
@@ -71,6 +72,7 @@ My 100 Days of DSA journey in Java, solving LeetCode problems and tracking daily
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Yash5885/100-days-of-dsa-java/tree/master/0005-longest-palindromic-substring) |
+| [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/Yash5885/100-days-of-dsa-java/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
 ## Sliding Window
 |  |
 | ------- |
