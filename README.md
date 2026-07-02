@@ -56,6 +56,7 @@ My 100 Days of DSA journey in Java, solving LeetCode problems and tracking daily
 | [0014-longest-common-prefix](https://github.com/Yash5885/100-days-of-dsa-java/tree/master/0014-longest-common-prefix) |
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/Yash5885/100-days-of-dsa-java/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [0165-compare-version-numbers](https://github.com/Yash5885/100-days-of-dsa-java/tree/master/0165-compare-version-numbers) |
+| [0038-count-and-say](https://github.com/Yash5885/100-days-of-dsa-java/tree/master/0038-count-and-say) |
 ## Sorting
 |  |
 | ------- |
