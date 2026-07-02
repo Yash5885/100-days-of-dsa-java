@@ -73,6 +73,7 @@ My 100 Days of DSA journey in Java, solving LeetCode problems and tracking daily
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Yash5885/100-days-of-dsa-java/tree/master/0005-longest-palindromic-substring) |
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/Yash5885/100-days-of-dsa-java/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
+| [0198-house-robber](https://github.com/Yash5885/100-days-of-dsa-java/tree/master/0198-house-robber) |
 ## Sliding Window
 |  |
 | ------- |
@@ -86,6 +87,7 @@ My 100 Days of DSA journey in Java, solving LeetCode problems and tracking daily
 | ------- |
 | [0014-longest-common-prefix](https://github.com/Yash5885/100-days-of-dsa-java/tree/master/0014-longest-common-prefix) |
 | [0463-island-perimeter](https://github.com/Yash5885/100-days-of-dsa-java/tree/master/0463-island-perimeter) |
+| [0198-house-robber](https://github.com/Yash5885/100-days-of-dsa-java/tree/master/0198-house-robber) |
 ## Trie
 |  |
 | ------- |
