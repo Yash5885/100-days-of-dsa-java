@@ -25,10 +25,12 @@ My 100 Days of DSA journey in Java, solving LeetCode problems and tracking daily
 |  |
 | ------- |
 | [0901-online-stock-span](https://github.com/Yash5885/100-days-of-dsa-java/tree/master/0901-online-stock-span) |
+| [0232-implement-queue-using-stacks](https://github.com/Yash5885/100-days-of-dsa-java/tree/master/0232-implement-queue-using-stacks) |
 ## Design
 |  |
 | ------- |
 | [0901-online-stock-span](https://github.com/Yash5885/100-days-of-dsa-java/tree/master/0901-online-stock-span) |
+| [0232-implement-queue-using-stacks](https://github.com/Yash5885/100-days-of-dsa-java/tree/master/0232-implement-queue-using-stacks) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -99,4 +101,8 @@ My 100 Days of DSA journey in Java, solving LeetCode problems and tracking daily
 |  |
 | ------- |
 | [0463-island-perimeter](https://github.com/Yash5885/100-days-of-dsa-java/tree/master/0463-island-perimeter) |
+## Queue
+|  |
+| ------- |
+| [0232-implement-queue-using-stacks](https://github.com/Yash5885/100-days-of-dsa-java/tree/master/0232-implement-queue-using-stacks) |
 <!---LeetCode Topics End-->
