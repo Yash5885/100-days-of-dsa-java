@@ -10,6 +10,7 @@ My 100 Days of DSA journey in Java, solving LeetCode problems and tracking daily
 | [0094-binary-tree-inorder-traversal](https://github.com/Yash5885/100-days-of-dsa-java/tree/master/0094-binary-tree-inorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Yash5885/100-days-of-dsa-java/tree/master/0145-binary-tree-postorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Yash5885/100-days-of-dsa-java/tree/master/0144-binary-tree-preorder-traversal) |
+| [0199-binary-tree-right-side-view](https://github.com/Yash5885/100-days-of-dsa-java/tree/master/0199-binary-tree-right-side-view) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -18,11 +19,13 @@ My 100 Days of DSA journey in Java, solving LeetCode problems and tracking daily
 | [0094-binary-tree-inorder-traversal](https://github.com/Yash5885/100-days-of-dsa-java/tree/master/0094-binary-tree-inorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Yash5885/100-days-of-dsa-java/tree/master/0145-binary-tree-postorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Yash5885/100-days-of-dsa-java/tree/master/0144-binary-tree-preorder-traversal) |
+| [0199-binary-tree-right-side-view](https://github.com/Yash5885/100-days-of-dsa-java/tree/master/0199-binary-tree-right-side-view) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0112-path-sum](https://github.com/Yash5885/100-days-of-dsa-java/tree/master/0112-path-sum) |
 | [0463-island-perimeter](https://github.com/Yash5885/100-days-of-dsa-java/tree/master/0463-island-perimeter) |
+| [0199-binary-tree-right-side-view](https://github.com/Yash5885/100-days-of-dsa-java/tree/master/0199-binary-tree-right-side-view) |
 ## Binary Tree
 |  |
 | ------- |
@@ -30,6 +33,7 @@ My 100 Days of DSA journey in Java, solving LeetCode problems and tracking daily
 | [0094-binary-tree-inorder-traversal](https://github.com/Yash5885/100-days-of-dsa-java/tree/master/0094-binary-tree-inorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Yash5885/100-days-of-dsa-java/tree/master/0145-binary-tree-postorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Yash5885/100-days-of-dsa-java/tree/master/0144-binary-tree-preorder-traversal) |
+| [0199-binary-tree-right-side-view](https://github.com/Yash5885/100-days-of-dsa-java/tree/master/0199-binary-tree-right-side-view) |
 ## Stack
 |  |
 | ------- |
