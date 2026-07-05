@@ -11,6 +11,7 @@ My 100 Days of DSA journey in Java, solving LeetCode problems and tracking daily
 | [0145-binary-tree-postorder-traversal](https://github.com/Yash5885/100-days-of-dsa-java/tree/master/0145-binary-tree-postorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Yash5885/100-days-of-dsa-java/tree/master/0144-binary-tree-preorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/Yash5885/100-days-of-dsa-java/tree/master/0199-binary-tree-right-side-view) |
+| [0098-validate-binary-search-tree](https://github.com/Yash5885/100-days-of-dsa-java/tree/master/0098-validate-binary-search-tree) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -20,6 +21,7 @@ My 100 Days of DSA journey in Java, solving LeetCode problems and tracking daily
 | [0145-binary-tree-postorder-traversal](https://github.com/Yash5885/100-days-of-dsa-java/tree/master/0145-binary-tree-postorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Yash5885/100-days-of-dsa-java/tree/master/0144-binary-tree-preorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/Yash5885/100-days-of-dsa-java/tree/master/0199-binary-tree-right-side-view) |
+| [0098-validate-binary-search-tree](https://github.com/Yash5885/100-days-of-dsa-java/tree/master/0098-validate-binary-search-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -34,6 +36,7 @@ My 100 Days of DSA journey in Java, solving LeetCode problems and tracking daily
 | [0145-binary-tree-postorder-traversal](https://github.com/Yash5885/100-days-of-dsa-java/tree/master/0145-binary-tree-postorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Yash5885/100-days-of-dsa-java/tree/master/0144-binary-tree-preorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/Yash5885/100-days-of-dsa-java/tree/master/0199-binary-tree-right-side-view) |
+| [0098-validate-binary-search-tree](https://github.com/Yash5885/100-days-of-dsa-java/tree/master/0098-validate-binary-search-tree) |
 ## Stack
 |  |
 | ------- |
@@ -135,4 +138,8 @@ My 100 Days of DSA journey in Java, solving LeetCode problems and tracking daily
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/Yash5885/100-days-of-dsa-java/tree/master/0215-kth-largest-element-in-an-array) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0098-validate-binary-search-tree](https://github.com/Yash5885/100-days-of-dsa-java/tree/master/0098-validate-binary-search-tree) |
 <!---LeetCode Topics End-->
