@@ -93,6 +93,7 @@ My 100 Days of DSA journey in Java, solving LeetCode problems and tracking daily
 | [0005-longest-palindromic-substring](https://github.com/Yash5885/100-days-of-dsa-java/tree/master/0005-longest-palindromic-substring) |
 | [0151-reverse-words-in-a-string](https://github.com/Yash5885/100-days-of-dsa-java/tree/master/0151-reverse-words-in-a-string) |
 | [0165-compare-version-numbers](https://github.com/Yash5885/100-days-of-dsa-java/tree/master/0165-compare-version-numbers) |
+| [0876-middle-of-the-linked-list](https://github.com/Yash5885/100-days-of-dsa-java/tree/master/0876-middle-of-the-linked-list) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -142,4 +143,8 @@ My 100 Days of DSA journey in Java, solving LeetCode problems and tracking daily
 |  |
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/Yash5885/100-days-of-dsa-java/tree/master/0098-validate-binary-search-tree) |
+## Linked List
+|  |
+| ------- |
+| [0876-middle-of-the-linked-list](https://github.com/Yash5885/100-days-of-dsa-java/tree/master/0876-middle-of-the-linked-list) |
 <!---LeetCode Topics End-->
