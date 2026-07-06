@@ -14,6 +14,7 @@ My 100 Days of DSA journey in Java, solving LeetCode problems and tracking daily
 | [0098-validate-binary-search-tree](https://github.com/Yash5885/100-days-of-dsa-java/tree/master/0098-validate-binary-search-tree) |
 | [0110-balanced-binary-tree](https://github.com/Yash5885/100-days-of-dsa-java/tree/master/0110-balanced-binary-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/Yash5885/100-days-of-dsa-java/tree/master/0102-binary-tree-level-order-traversal) |
+| [0543-diameter-of-binary-tree](https://github.com/Yash5885/100-days-of-dsa-java/tree/master/0543-diameter-of-binary-tree) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -25,6 +26,7 @@ My 100 Days of DSA journey in Java, solving LeetCode problems and tracking daily
 | [0199-binary-tree-right-side-view](https://github.com/Yash5885/100-days-of-dsa-java/tree/master/0199-binary-tree-right-side-view) |
 | [0098-validate-binary-search-tree](https://github.com/Yash5885/100-days-of-dsa-java/tree/master/0098-validate-binary-search-tree) |
 | [0110-balanced-binary-tree](https://github.com/Yash5885/100-days-of-dsa-java/tree/master/0110-balanced-binary-tree) |
+| [0543-diameter-of-binary-tree](https://github.com/Yash5885/100-days-of-dsa-java/tree/master/0543-diameter-of-binary-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -43,6 +45,7 @@ My 100 Days of DSA journey in Java, solving LeetCode problems and tracking daily
 | [0098-validate-binary-search-tree](https://github.com/Yash5885/100-days-of-dsa-java/tree/master/0098-validate-binary-search-tree) |
 | [0110-balanced-binary-tree](https://github.com/Yash5885/100-days-of-dsa-java/tree/master/0110-balanced-binary-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/Yash5885/100-days-of-dsa-java/tree/master/0102-binary-tree-level-order-traversal) |
+| [0543-diameter-of-binary-tree](https://github.com/Yash5885/100-days-of-dsa-java/tree/master/0543-diameter-of-binary-tree) |
 ## Stack
 |  |
 | ------- |
