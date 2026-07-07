@@ -17,6 +17,7 @@ My 100 Days of DSA journey in Java, solving LeetCode problems and tracking daily
 | [0543-diameter-of-binary-tree](https://github.com/Yash5885/100-days-of-dsa-java/tree/master/0543-diameter-of-binary-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Yash5885/100-days-of-dsa-java/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Yash5885/100-days-of-dsa-java/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+| [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Yash5885/100-days-of-dsa-java/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -30,6 +31,7 @@ My 100 Days of DSA journey in Java, solving LeetCode problems and tracking daily
 | [0110-balanced-binary-tree](https://github.com/Yash5885/100-days-of-dsa-java/tree/master/0110-balanced-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/Yash5885/100-days-of-dsa-java/tree/master/0543-diameter-of-binary-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Yash5885/100-days-of-dsa-java/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Yash5885/100-days-of-dsa-java/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -52,6 +54,7 @@ My 100 Days of DSA journey in Java, solving LeetCode problems and tracking daily
 | [0543-diameter-of-binary-tree](https://github.com/Yash5885/100-days-of-dsa-java/tree/master/0543-diameter-of-binary-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Yash5885/100-days-of-dsa-java/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Yash5885/100-days-of-dsa-java/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+| [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Yash5885/100-days-of-dsa-java/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 ## Stack
 |  |
 | ------- |
