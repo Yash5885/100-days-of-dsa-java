@@ -16,6 +16,7 @@ My 100 Days of DSA journey in Java, solving LeetCode problems and tracking daily
 | [0102-binary-tree-level-order-traversal](https://github.com/Yash5885/100-days-of-dsa-java/tree/master/0102-binary-tree-level-order-traversal) |
 | [0543-diameter-of-binary-tree](https://github.com/Yash5885/100-days-of-dsa-java/tree/master/0543-diameter-of-binary-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Yash5885/100-days-of-dsa-java/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Yash5885/100-days-of-dsa-java/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -50,6 +51,7 @@ My 100 Days of DSA journey in Java, solving LeetCode problems and tracking daily
 | [0102-binary-tree-level-order-traversal](https://github.com/Yash5885/100-days-of-dsa-java/tree/master/0102-binary-tree-level-order-traversal) |
 | [0543-diameter-of-binary-tree](https://github.com/Yash5885/100-days-of-dsa-java/tree/master/0543-diameter-of-binary-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Yash5885/100-days-of-dsa-java/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Yash5885/100-days-of-dsa-java/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 ## Stack
 |  |
 | ------- |
@@ -77,6 +79,7 @@ My 100 Days of DSA journey in Java, solving LeetCode problems and tracking daily
 | [0242-valid-anagram](https://github.com/Yash5885/100-days-of-dsa-java/tree/master/0242-valid-anagram) |
 | [0013-roman-to-integer](https://github.com/Yash5885/100-days-of-dsa-java/tree/master/0013-roman-to-integer) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Yash5885/100-days-of-dsa-java/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Yash5885/100-days-of-dsa-java/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 ## String
 |  |
 | ------- |
@@ -128,6 +131,7 @@ My 100 Days of DSA journey in Java, solving LeetCode problems and tracking daily
 | [0463-island-perimeter](https://github.com/Yash5885/100-days-of-dsa-java/tree/master/0463-island-perimeter) |
 | [0198-house-robber](https://github.com/Yash5885/100-days-of-dsa-java/tree/master/0198-house-robber) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Yash5885/100-days-of-dsa-java/tree/master/0215-kth-largest-element-in-an-array) |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Yash5885/100-days-of-dsa-java/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 ## Trie
 |  |
 | ------- |
@@ -144,6 +148,7 @@ My 100 Days of DSA journey in Java, solving LeetCode problems and tracking daily
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/Yash5885/100-days-of-dsa-java/tree/master/0215-kth-largest-element-in-an-array) |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Yash5885/100-days-of-dsa-java/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
