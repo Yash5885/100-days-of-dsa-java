@@ -20,6 +20,7 @@ My 100 Days of DSA journey in Java, solving LeetCode problems and tracking daily
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Yash5885/100-days-of-dsa-java/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0100-same-tree](https://github.com/Yash5885/100-days-of-dsa-java/tree/master/0100-same-tree) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Yash5885/100-days-of-dsa-java/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/Yash5885/100-days-of-dsa-java/tree/master/0124-binary-tree-maximum-path-sum) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -35,6 +36,7 @@ My 100 Days of DSA journey in Java, solving LeetCode problems and tracking daily
 | [0104-maximum-depth-of-binary-tree](https://github.com/Yash5885/100-days-of-dsa-java/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Yash5885/100-days-of-dsa-java/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0100-same-tree](https://github.com/Yash5885/100-days-of-dsa-java/tree/master/0100-same-tree) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/Yash5885/100-days-of-dsa-java/tree/master/0124-binary-tree-maximum-path-sum) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -61,6 +63,7 @@ My 100 Days of DSA journey in Java, solving LeetCode problems and tracking daily
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Yash5885/100-days-of-dsa-java/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0100-same-tree](https://github.com/Yash5885/100-days-of-dsa-java/tree/master/0100-same-tree) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Yash5885/100-days-of-dsa-java/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/Yash5885/100-days-of-dsa-java/tree/master/0124-binary-tree-maximum-path-sum) |
 ## Stack
 |  |
 | ------- |
@@ -128,6 +131,7 @@ My 100 Days of DSA journey in Java, solving LeetCode problems and tracking daily
 | [0005-longest-palindromic-substring](https://github.com/Yash5885/100-days-of-dsa-java/tree/master/0005-longest-palindromic-substring) |
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/Yash5885/100-days-of-dsa-java/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [0198-house-robber](https://github.com/Yash5885/100-days-of-dsa-java/tree/master/0198-house-robber) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/Yash5885/100-days-of-dsa-java/tree/master/0124-binary-tree-maximum-path-sum) |
 ## Sliding Window
 |  |
 | ------- |
