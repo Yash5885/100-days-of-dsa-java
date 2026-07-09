@@ -22,7 +22,7 @@ My 100 Days of DSA journey in Java, solving LeetCode problems and tracking daily
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Yash5885/100-days-of-dsa-java/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Yash5885/100-days-of-dsa-java/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/Yash5885/100-days-of-dsa-java/tree/master/0637-average-of-levels-in-binary-tree) |
-| [0114-flatten-binary-tree-to-linked-list](https://github.com/Yash5885/100-days-of-dsa-java/tree/master/0114-flatten-binary-tree-to-linked-list) |
+| [0101-symmetric-tree](https://github.com/Yash5885/100-days-of-dsa-java/tree/master/0101-symmetric-tree) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -40,7 +40,7 @@ My 100 Days of DSA journey in Java, solving LeetCode problems and tracking daily
 | [0100-same-tree](https://github.com/Yash5885/100-days-of-dsa-java/tree/master/0100-same-tree) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Yash5885/100-days-of-dsa-java/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/Yash5885/100-days-of-dsa-java/tree/master/0637-average-of-levels-in-binary-tree) |
-| [0114-flatten-binary-tree-to-linked-list](https://github.com/Yash5885/100-days-of-dsa-java/tree/master/0114-flatten-binary-tree-to-linked-list) |
+| [0101-symmetric-tree](https://github.com/Yash5885/100-days-of-dsa-java/tree/master/0101-symmetric-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -51,6 +51,7 @@ My 100 Days of DSA journey in Java, solving LeetCode problems and tracking daily
 | [0104-maximum-depth-of-binary-tree](https://github.com/Yash5885/100-days-of-dsa-java/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0100-same-tree](https://github.com/Yash5885/100-days-of-dsa-java/tree/master/0100-same-tree) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/Yash5885/100-days-of-dsa-java/tree/master/0637-average-of-levels-in-binary-tree) |
+| [0101-symmetric-tree](https://github.com/Yash5885/100-days-of-dsa-java/tree/master/0101-symmetric-tree) |
 ## Binary Tree
 |  |
 | ------- |
@@ -70,7 +71,7 @@ My 100 Days of DSA journey in Java, solving LeetCode problems and tracking daily
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Yash5885/100-days-of-dsa-java/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Yash5885/100-days-of-dsa-java/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/Yash5885/100-days-of-dsa-java/tree/master/0637-average-of-levels-in-binary-tree) |
-| [0114-flatten-binary-tree-to-linked-list](https://github.com/Yash5885/100-days-of-dsa-java/tree/master/0114-flatten-binary-tree-to-linked-list) |
+| [0101-symmetric-tree](https://github.com/Yash5885/100-days-of-dsa-java/tree/master/0101-symmetric-tree) |
 ## Stack
 |  |
 | ------- |
@@ -79,7 +80,6 @@ My 100 Days of DSA journey in Java, solving LeetCode problems and tracking daily
 | [0094-binary-tree-inorder-traversal](https://github.com/Yash5885/100-days-of-dsa-java/tree/master/0094-binary-tree-inorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Yash5885/100-days-of-dsa-java/tree/master/0145-binary-tree-postorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Yash5885/100-days-of-dsa-java/tree/master/0144-binary-tree-preorder-traversal) |
-| [0114-flatten-binary-tree-to-linked-list](https://github.com/Yash5885/100-days-of-dsa-java/tree/master/0114-flatten-binary-tree-to-linked-list) |
 ## Design
 |  |
 | ------- |
@@ -192,5 +192,4 @@ My 100 Days of DSA journey in Java, solving LeetCode problems and tracking daily
 |  |
 | ------- |
 | [0876-middle-of-the-linked-list](https://github.com/Yash5885/100-days-of-dsa-java/tree/master/0876-middle-of-the-linked-list) |
-| [0114-flatten-binary-tree-to-linked-list](https://github.com/Yash5885/100-days-of-dsa-java/tree/master/0114-flatten-binary-tree-to-linked-list) |
 <!---LeetCode Topics End-->
