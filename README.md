@@ -24,6 +24,7 @@ My 100 Days of DSA journey in Java, solving LeetCode problems and tracking daily
 | [0637-average-of-levels-in-binary-tree](https://github.com/Yash5885/100-days-of-dsa-java/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0101-symmetric-tree](https://github.com/Yash5885/100-days-of-dsa-java/tree/master/0101-symmetric-tree) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Yash5885/100-days-of-dsa-java/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0700-search-in-a-binary-search-tree](https://github.com/Yash5885/100-days-of-dsa-java/tree/master/0700-search-in-a-binary-search-tree) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -74,6 +75,7 @@ My 100 Days of DSA journey in Java, solving LeetCode problems and tracking daily
 | [0637-average-of-levels-in-binary-tree](https://github.com/Yash5885/100-days-of-dsa-java/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0101-symmetric-tree](https://github.com/Yash5885/100-days-of-dsa-java/tree/master/0101-symmetric-tree) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Yash5885/100-days-of-dsa-java/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0700-search-in-a-binary-search-tree](https://github.com/Yash5885/100-days-of-dsa-java/tree/master/0700-search-in-a-binary-search-tree) |
 ## Stack
 |  |
 | ------- |
@@ -195,6 +197,7 @@ My 100 Days of DSA journey in Java, solving LeetCode problems and tracking daily
 | [0098-validate-binary-search-tree](https://github.com/Yash5885/100-days-of-dsa-java/tree/master/0098-validate-binary-search-tree) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/Yash5885/100-days-of-dsa-java/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Yash5885/100-days-of-dsa-java/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0700-search-in-a-binary-search-tree](https://github.com/Yash5885/100-days-of-dsa-java/tree/master/0700-search-in-a-binary-search-tree) |
 ## Linked List
 |  |
 | ------- |
