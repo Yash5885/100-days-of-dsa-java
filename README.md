@@ -23,6 +23,7 @@ My 100 Days of DSA journey in Java, solving LeetCode problems and tracking daily
 | [0124-binary-tree-maximum-path-sum](https://github.com/Yash5885/100-days-of-dsa-java/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/Yash5885/100-days-of-dsa-java/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0101-symmetric-tree](https://github.com/Yash5885/100-days-of-dsa-java/tree/master/0101-symmetric-tree) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Yash5885/100-days-of-dsa-java/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -72,6 +73,7 @@ My 100 Days of DSA journey in Java, solving LeetCode problems and tracking daily
 | [0124-binary-tree-maximum-path-sum](https://github.com/Yash5885/100-days-of-dsa-java/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/Yash5885/100-days-of-dsa-java/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0101-symmetric-tree](https://github.com/Yash5885/100-days-of-dsa-java/tree/master/0101-symmetric-tree) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Yash5885/100-days-of-dsa-java/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 ## Stack
 |  |
 | ------- |
@@ -159,6 +161,7 @@ My 100 Days of DSA journey in Java, solving LeetCode problems and tracking daily
 | [0977-squares-of-a-sorted-array](https://github.com/Yash5885/100-days-of-dsa-java/tree/master/0977-squares-of-a-sorted-array) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Yash5885/100-days-of-dsa-java/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/Yash5885/100-days-of-dsa-java/tree/master/0744-find-smallest-letter-greater-than-target) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Yash5885/100-days-of-dsa-java/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 ## Trie
 |  |
 | ------- |
@@ -177,6 +180,7 @@ My 100 Days of DSA journey in Java, solving LeetCode problems and tracking daily
 | [0215-kth-largest-element-in-an-array](https://github.com/Yash5885/100-days-of-dsa-java/tree/master/0215-kth-largest-element-in-an-array) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Yash5885/100-days-of-dsa-java/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Yash5885/100-days-of-dsa-java/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Yash5885/100-days-of-dsa-java/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -190,6 +194,7 @@ My 100 Days of DSA journey in Java, solving LeetCode problems and tracking daily
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/Yash5885/100-days-of-dsa-java/tree/master/0098-validate-binary-search-tree) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/Yash5885/100-days-of-dsa-java/tree/master/0744-find-smallest-letter-greater-than-target) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Yash5885/100-days-of-dsa-java/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 ## Linked List
 |  |
 | ------- |
