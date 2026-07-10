@@ -25,6 +25,7 @@ My 100 Days of DSA journey in Java, solving LeetCode problems and tracking daily
 | [0101-symmetric-tree](https://github.com/Yash5885/100-days-of-dsa-java/tree/master/0101-symmetric-tree) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Yash5885/100-days-of-dsa-java/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0700-search-in-a-binary-search-tree](https://github.com/Yash5885/100-days-of-dsa-java/tree/master/0700-search-in-a-binary-search-tree) |
+| [0116-populating-next-right-pointers-in-each-node](https://github.com/Yash5885/100-days-of-dsa-java/tree/master/0116-populating-next-right-pointers-in-each-node) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -43,6 +44,7 @@ My 100 Days of DSA journey in Java, solving LeetCode problems and tracking daily
 | [0124-binary-tree-maximum-path-sum](https://github.com/Yash5885/100-days-of-dsa-java/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/Yash5885/100-days-of-dsa-java/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0101-symmetric-tree](https://github.com/Yash5885/100-days-of-dsa-java/tree/master/0101-symmetric-tree) |
+| [0116-populating-next-right-pointers-in-each-node](https://github.com/Yash5885/100-days-of-dsa-java/tree/master/0116-populating-next-right-pointers-in-each-node) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -54,6 +56,7 @@ My 100 Days of DSA journey in Java, solving LeetCode problems and tracking daily
 | [0100-same-tree](https://github.com/Yash5885/100-days-of-dsa-java/tree/master/0100-same-tree) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/Yash5885/100-days-of-dsa-java/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0101-symmetric-tree](https://github.com/Yash5885/100-days-of-dsa-java/tree/master/0101-symmetric-tree) |
+| [0116-populating-next-right-pointers-in-each-node](https://github.com/Yash5885/100-days-of-dsa-java/tree/master/0116-populating-next-right-pointers-in-each-node) |
 ## Binary Tree
 |  |
 | ------- |
@@ -76,6 +79,7 @@ My 100 Days of DSA journey in Java, solving LeetCode problems and tracking daily
 | [0101-symmetric-tree](https://github.com/Yash5885/100-days-of-dsa-java/tree/master/0101-symmetric-tree) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Yash5885/100-days-of-dsa-java/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0700-search-in-a-binary-search-tree](https://github.com/Yash5885/100-days-of-dsa-java/tree/master/0700-search-in-a-binary-search-tree) |
+| [0116-populating-next-right-pointers-in-each-node](https://github.com/Yash5885/100-days-of-dsa-java/tree/master/0116-populating-next-right-pointers-in-each-node) |
 ## Stack
 |  |
 | ------- |
@@ -202,4 +206,5 @@ My 100 Days of DSA journey in Java, solving LeetCode problems and tracking daily
 |  |
 | ------- |
 | [0876-middle-of-the-linked-list](https://github.com/Yash5885/100-days-of-dsa-java/tree/master/0876-middle-of-the-linked-list) |
+| [0116-populating-next-right-pointers-in-each-node](https://github.com/Yash5885/100-days-of-dsa-java/tree/master/0116-populating-next-right-pointers-in-each-node) |
 <!---LeetCode Topics End-->
