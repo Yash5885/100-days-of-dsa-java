@@ -148,6 +148,7 @@ My 100 Days of DSA journey in Java, solving LeetCode problems and tracking daily
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/Yash5885/100-days-of-dsa-java/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [0198-house-robber](https://github.com/Yash5885/100-days-of-dsa-java/tree/master/0198-house-robber) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Yash5885/100-days-of-dsa-java/tree/master/0124-binary-tree-maximum-path-sum) |
+| [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Yash5885/100-days-of-dsa-java/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 ## Sliding Window
 |  |
 | ------- |
@@ -168,6 +169,7 @@ My 100 Days of DSA journey in Java, solving LeetCode problems and tracking daily
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Yash5885/100-days-of-dsa-java/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/Yash5885/100-days-of-dsa-java/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Yash5885/100-days-of-dsa-java/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Yash5885/100-days-of-dsa-java/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 ## Trie
 |  |
 | ------- |
@@ -207,4 +209,8 @@ My 100 Days of DSA journey in Java, solving LeetCode problems and tracking daily
 | ------- |
 | [0876-middle-of-the-linked-list](https://github.com/Yash5885/100-days-of-dsa-java/tree/master/0876-middle-of-the-linked-list) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/Yash5885/100-days-of-dsa-java/tree/master/0116-populating-next-right-pointers-in-each-node) |
+## Greedy
+|  |
+| ------- |
+| [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Yash5885/100-days-of-dsa-java/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 <!---LeetCode Topics End-->
