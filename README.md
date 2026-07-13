@@ -28,6 +28,7 @@ My 100 Days of DSA journey in Java, solving LeetCode problems and tracking daily
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/Yash5885/100-days-of-dsa-java/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Yash5885/100-days-of-dsa-java/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/Yash5885/100-days-of-dsa-java/tree/master/1373-maximum-sum-bst-in-binary-tree) |
+| [0173-binary-search-tree-iterator](https://github.com/Yash5885/100-days-of-dsa-java/tree/master/0173-binary-search-tree-iterator) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -87,6 +88,7 @@ My 100 Days of DSA journey in Java, solving LeetCode problems and tracking daily
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/Yash5885/100-days-of-dsa-java/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Yash5885/100-days-of-dsa-java/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/Yash5885/100-days-of-dsa-java/tree/master/1373-maximum-sum-bst-in-binary-tree) |
+| [0173-binary-search-tree-iterator](https://github.com/Yash5885/100-days-of-dsa-java/tree/master/0173-binary-search-tree-iterator) |
 ## Stack
 |  |
 | ------- |
@@ -95,12 +97,14 @@ My 100 Days of DSA journey in Java, solving LeetCode problems and tracking daily
 | [0094-binary-tree-inorder-traversal](https://github.com/Yash5885/100-days-of-dsa-java/tree/master/0094-binary-tree-inorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Yash5885/100-days-of-dsa-java/tree/master/0145-binary-tree-postorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Yash5885/100-days-of-dsa-java/tree/master/0144-binary-tree-preorder-traversal) |
+| [0173-binary-search-tree-iterator](https://github.com/Yash5885/100-days-of-dsa-java/tree/master/0173-binary-search-tree-iterator) |
 ## Design
 |  |
 | ------- |
 | [0901-online-stock-span](https://github.com/Yash5885/100-days-of-dsa-java/tree/master/0901-online-stock-span) |
 | [0232-implement-queue-using-stacks](https://github.com/Yash5885/100-days-of-dsa-java/tree/master/0232-implement-queue-using-stacks) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Yash5885/100-days-of-dsa-java/tree/master/0297-serialize-and-deserialize-binary-tree) |
+| [0173-binary-search-tree-iterator](https://github.com/Yash5885/100-days-of-dsa-java/tree/master/0173-binary-search-tree-iterator) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -215,6 +219,7 @@ My 100 Days of DSA journey in Java, solving LeetCode problems and tracking daily
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Yash5885/100-days-of-dsa-java/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0700-search-in-a-binary-search-tree](https://github.com/Yash5885/100-days-of-dsa-java/tree/master/0700-search-in-a-binary-search-tree) |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/Yash5885/100-days-of-dsa-java/tree/master/1373-maximum-sum-bst-in-binary-tree) |
+| [0173-binary-search-tree-iterator](https://github.com/Yash5885/100-days-of-dsa-java/tree/master/0173-binary-search-tree-iterator) |
 ## Linked List
 |  |
 | ------- |
@@ -224,4 +229,8 @@ My 100 Days of DSA journey in Java, solving LeetCode problems and tracking daily
 |  |
 | ------- |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Yash5885/100-days-of-dsa-java/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+## Iterator
+|  |
+| ------- |
+| [0173-binary-search-tree-iterator](https://github.com/Yash5885/100-days-of-dsa-java/tree/master/0173-binary-search-tree-iterator) |
 <!---LeetCode Topics End-->
