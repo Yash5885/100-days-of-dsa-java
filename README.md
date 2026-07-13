@@ -27,6 +27,7 @@ My 100 Days of DSA journey in Java, solving LeetCode problems and tracking daily
 | [0700-search-in-a-binary-search-tree](https://github.com/Yash5885/100-days-of-dsa-java/tree/master/0700-search-in-a-binary-search-tree) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/Yash5885/100-days-of-dsa-java/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Yash5885/100-days-of-dsa-java/tree/master/0297-serialize-and-deserialize-binary-tree) |
+| [1373-maximum-sum-bst-in-binary-tree](https://github.com/Yash5885/100-days-of-dsa-java/tree/master/1373-maximum-sum-bst-in-binary-tree) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -47,6 +48,7 @@ My 100 Days of DSA journey in Java, solving LeetCode problems and tracking daily
 | [0101-symmetric-tree](https://github.com/Yash5885/100-days-of-dsa-java/tree/master/0101-symmetric-tree) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/Yash5885/100-days-of-dsa-java/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Yash5885/100-days-of-dsa-java/tree/master/0297-serialize-and-deserialize-binary-tree) |
+| [1373-maximum-sum-bst-in-binary-tree](https://github.com/Yash5885/100-days-of-dsa-java/tree/master/1373-maximum-sum-bst-in-binary-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -84,6 +86,7 @@ My 100 Days of DSA journey in Java, solving LeetCode problems and tracking daily
 | [0700-search-in-a-binary-search-tree](https://github.com/Yash5885/100-days-of-dsa-java/tree/master/0700-search-in-a-binary-search-tree) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/Yash5885/100-days-of-dsa-java/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Yash5885/100-days-of-dsa-java/tree/master/0297-serialize-and-deserialize-binary-tree) |
+| [1373-maximum-sum-bst-in-binary-tree](https://github.com/Yash5885/100-days-of-dsa-java/tree/master/1373-maximum-sum-bst-in-binary-tree) |
 ## Stack
 |  |
 | ------- |
@@ -155,6 +158,7 @@ My 100 Days of DSA journey in Java, solving LeetCode problems and tracking daily
 | [0198-house-robber](https://github.com/Yash5885/100-days-of-dsa-java/tree/master/0198-house-robber) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Yash5885/100-days-of-dsa-java/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Yash5885/100-days-of-dsa-java/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [1373-maximum-sum-bst-in-binary-tree](https://github.com/Yash5885/100-days-of-dsa-java/tree/master/1373-maximum-sum-bst-in-binary-tree) |
 ## Sliding Window
 |  |
 | ------- |
@@ -210,6 +214,7 @@ My 100 Days of DSA journey in Java, solving LeetCode problems and tracking daily
 | [0744-find-smallest-letter-greater-than-target](https://github.com/Yash5885/100-days-of-dsa-java/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Yash5885/100-days-of-dsa-java/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0700-search-in-a-binary-search-tree](https://github.com/Yash5885/100-days-of-dsa-java/tree/master/0700-search-in-a-binary-search-tree) |
+| [1373-maximum-sum-bst-in-binary-tree](https://github.com/Yash5885/100-days-of-dsa-java/tree/master/1373-maximum-sum-bst-in-binary-tree) |
 ## Linked List
 |  |
 | ------- |
