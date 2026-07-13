@@ -26,6 +26,7 @@ My 100 Days of DSA journey in Java, solving LeetCode problems and tracking daily
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Yash5885/100-days-of-dsa-java/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0700-search-in-a-binary-search-tree](https://github.com/Yash5885/100-days-of-dsa-java/tree/master/0700-search-in-a-binary-search-tree) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/Yash5885/100-days-of-dsa-java/tree/master/0116-populating-next-right-pointers-in-each-node) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/Yash5885/100-days-of-dsa-java/tree/master/0297-serialize-and-deserialize-binary-tree) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -45,6 +46,7 @@ My 100 Days of DSA journey in Java, solving LeetCode problems and tracking daily
 | [0637-average-of-levels-in-binary-tree](https://github.com/Yash5885/100-days-of-dsa-java/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0101-symmetric-tree](https://github.com/Yash5885/100-days-of-dsa-java/tree/master/0101-symmetric-tree) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/Yash5885/100-days-of-dsa-java/tree/master/0116-populating-next-right-pointers-in-each-node) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/Yash5885/100-days-of-dsa-java/tree/master/0297-serialize-and-deserialize-binary-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -57,6 +59,7 @@ My 100 Days of DSA journey in Java, solving LeetCode problems and tracking daily
 | [0637-average-of-levels-in-binary-tree](https://github.com/Yash5885/100-days-of-dsa-java/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0101-symmetric-tree](https://github.com/Yash5885/100-days-of-dsa-java/tree/master/0101-symmetric-tree) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/Yash5885/100-days-of-dsa-java/tree/master/0116-populating-next-right-pointers-in-each-node) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/Yash5885/100-days-of-dsa-java/tree/master/0297-serialize-and-deserialize-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
@@ -80,6 +83,7 @@ My 100 Days of DSA journey in Java, solving LeetCode problems and tracking daily
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Yash5885/100-days-of-dsa-java/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0700-search-in-a-binary-search-tree](https://github.com/Yash5885/100-days-of-dsa-java/tree/master/0700-search-in-a-binary-search-tree) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/Yash5885/100-days-of-dsa-java/tree/master/0116-populating-next-right-pointers-in-each-node) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/Yash5885/100-days-of-dsa-java/tree/master/0297-serialize-and-deserialize-binary-tree) |
 ## Stack
 |  |
 | ------- |
@@ -93,6 +97,7 @@ My 100 Days of DSA journey in Java, solving LeetCode problems and tracking daily
 | ------- |
 | [0901-online-stock-span](https://github.com/Yash5885/100-days-of-dsa-java/tree/master/0901-online-stock-span) |
 | [0232-implement-queue-using-stacks](https://github.com/Yash5885/100-days-of-dsa-java/tree/master/0232-implement-queue-using-stacks) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/Yash5885/100-days-of-dsa-java/tree/master/0297-serialize-and-deserialize-binary-tree) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -123,6 +128,7 @@ My 100 Days of DSA journey in Java, solving LeetCode problems and tracking daily
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/Yash5885/100-days-of-dsa-java/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [0165-compare-version-numbers](https://github.com/Yash5885/100-days-of-dsa-java/tree/master/0165-compare-version-numbers) |
 | [0038-count-and-say](https://github.com/Yash5885/100-days-of-dsa-java/tree/master/0038-count-and-say) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/Yash5885/100-days-of-dsa-java/tree/master/0297-serialize-and-deserialize-binary-tree) |
 ## Sorting
 |  |
 | ------- |
