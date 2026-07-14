@@ -112,6 +112,7 @@ My 100 Days of DSA journey in Java, solving LeetCode problems and tracking daily
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Yash5885/100-days-of-dsa-java/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0173-binary-search-tree-iterator](https://github.com/Yash5885/100-days-of-dsa-java/tree/master/0173-binary-search-tree-iterator) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/Yash5885/100-days-of-dsa-java/tree/master/0703-kth-largest-element-in-a-stream) |
+| [0295-find-median-from-data-stream](https://github.com/Yash5885/100-days-of-dsa-java/tree/master/0295-find-median-from-data-stream) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -121,6 +122,7 @@ My 100 Days of DSA journey in Java, solving LeetCode problems and tracking daily
 | ------- |
 | [0901-online-stock-span](https://github.com/Yash5885/100-days-of-dsa-java/tree/master/0901-online-stock-span) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/Yash5885/100-days-of-dsa-java/tree/master/0703-kth-largest-element-in-a-stream) |
+| [0295-find-median-from-data-stream](https://github.com/Yash5885/100-days-of-dsa-java/tree/master/0295-find-median-from-data-stream) |
 ## Hash Table
 |  |
 | ------- |
@@ -150,6 +152,7 @@ My 100 Days of DSA journey in Java, solving LeetCode problems and tracking daily
 | [0242-valid-anagram](https://github.com/Yash5885/100-days-of-dsa-java/tree/master/0242-valid-anagram) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Yash5885/100-days-of-dsa-java/tree/master/0215-kth-largest-element-in-an-array) |
 | [0977-squares-of-a-sorted-array](https://github.com/Yash5885/100-days-of-dsa-java/tree/master/0977-squares-of-a-sorted-array) |
+| [0295-find-median-from-data-stream](https://github.com/Yash5885/100-days-of-dsa-java/tree/master/0295-find-median-from-data-stream) |
 ## Math
 |  |
 | ------- |
@@ -162,6 +165,7 @@ My 100 Days of DSA journey in Java, solving LeetCode problems and tracking daily
 | [0165-compare-version-numbers](https://github.com/Yash5885/100-days-of-dsa-java/tree/master/0165-compare-version-numbers) |
 | [0876-middle-of-the-linked-list](https://github.com/Yash5885/100-days-of-dsa-java/tree/master/0876-middle-of-the-linked-list) |
 | [0977-squares-of-a-sorted-array](https://github.com/Yash5885/100-days-of-dsa-java/tree/master/0977-squares-of-a-sorted-array) |
+| [0295-find-median-from-data-stream](https://github.com/Yash5885/100-days-of-dsa-java/tree/master/0295-find-median-from-data-stream) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -216,6 +220,7 @@ My 100 Days of DSA journey in Java, solving LeetCode problems and tracking daily
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/Yash5885/100-days-of-dsa-java/tree/master/0215-kth-largest-element-in-an-array) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/Yash5885/100-days-of-dsa-java/tree/master/0703-kth-largest-element-in-a-stream) |
+| [0295-find-median-from-data-stream](https://github.com/Yash5885/100-days-of-dsa-java/tree/master/0295-find-median-from-data-stream) |
 ## Quickselect
 |  |
 | ------- |
