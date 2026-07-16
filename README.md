@@ -131,6 +131,7 @@ My 100 Days of DSA journey in Java, solving LeetCode problems and tracking daily
 | [0003-longest-substring-without-repeating-characters](https://github.com/Yash5885/100-days-of-dsa-java/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Yash5885/100-days-of-dsa-java/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Yash5885/100-days-of-dsa-java/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
+| [0560-subarray-sum-equals-k](https://github.com/Yash5885/100-days-of-dsa-java/tree/master/0560-subarray-sum-equals-k) |
 ## String
 |  |
 | ------- |
@@ -196,6 +197,7 @@ My 100 Days of DSA journey in Java, solving LeetCode problems and tracking daily
 | [0744-find-smallest-letter-greater-than-target](https://github.com/Yash5885/100-days-of-dsa-java/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Yash5885/100-days-of-dsa-java/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Yash5885/100-days-of-dsa-java/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0560-subarray-sum-equals-k](https://github.com/Yash5885/100-days-of-dsa-java/tree/master/0560-subarray-sum-equals-k) |
 ## Trie
 |  |
 | ------- |
@@ -249,4 +251,8 @@ My 100 Days of DSA journey in Java, solving LeetCode problems and tracking daily
 |  |
 | ------- |
 | [0173-binary-search-tree-iterator](https://github.com/Yash5885/100-days-of-dsa-java/tree/master/0173-binary-search-tree-iterator) |
+## Prefix Sum
+|  |
+| ------- |
+| [0560-subarray-sum-equals-k](https://github.com/Yash5885/100-days-of-dsa-java/tree/master/0560-subarray-sum-equals-k) |
 <!---LeetCode Topics End-->
