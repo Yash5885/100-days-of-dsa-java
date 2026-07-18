@@ -200,6 +200,7 @@ My 100 Days of DSA journey in Java, solving LeetCode problems and tracking daily
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Yash5885/100-days-of-dsa-java/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Yash5885/100-days-of-dsa-java/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0560-subarray-sum-equals-k](https://github.com/Yash5885/100-days-of-dsa-java/tree/master/0560-subarray-sum-equals-k) |
+| [0004-median-of-two-sorted-arrays](https://github.com/Yash5885/100-days-of-dsa-java/tree/master/0004-median-of-two-sorted-arrays) |
 ## Trie
 |  |
 | ------- |
@@ -219,6 +220,7 @@ My 100 Days of DSA journey in Java, solving LeetCode problems and tracking daily
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Yash5885/100-days-of-dsa-java/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Yash5885/100-days-of-dsa-java/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Yash5885/100-days-of-dsa-java/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0004-median-of-two-sorted-arrays](https://github.com/Yash5885/100-days-of-dsa-java/tree/master/0004-median-of-two-sorted-arrays) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -239,6 +241,7 @@ My 100 Days of DSA journey in Java, solving LeetCode problems and tracking daily
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/Yash5885/100-days-of-dsa-java/tree/master/1373-maximum-sum-bst-in-binary-tree) |
 | [0173-binary-search-tree-iterator](https://github.com/Yash5885/100-days-of-dsa-java/tree/master/0173-binary-search-tree-iterator) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/Yash5885/100-days-of-dsa-java/tree/master/0703-kth-largest-element-in-a-stream) |
+| [0004-median-of-two-sorted-arrays](https://github.com/Yash5885/100-days-of-dsa-java/tree/master/0004-median-of-two-sorted-arrays) |
 ## Linked List
 |  |
 | ------- |
