@@ -147,6 +147,7 @@ My 100 Days of DSA journey in Java, solving LeetCode problems and tracking daily
 | [0165-compare-version-numbers](https://github.com/Yash5885/100-days-of-dsa-java/tree/master/0165-compare-version-numbers) |
 | [0038-count-and-say](https://github.com/Yash5885/100-days-of-dsa-java/tree/master/0038-count-and-say) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Yash5885/100-days-of-dsa-java/tree/master/0297-serialize-and-deserialize-binary-tree) |
+| [0091-decode-ways](https://github.com/Yash5885/100-days-of-dsa-java/tree/master/0091-decode-ways) |
 ## Sorting
 |  |
 | ------- |
@@ -176,6 +177,7 @@ My 100 Days of DSA journey in Java, solving LeetCode problems and tracking daily
 | [0124-binary-tree-maximum-path-sum](https://github.com/Yash5885/100-days-of-dsa-java/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Yash5885/100-days-of-dsa-java/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/Yash5885/100-days-of-dsa-java/tree/master/1373-maximum-sum-bst-in-binary-tree) |
+| [0091-decode-ways](https://github.com/Yash5885/100-days-of-dsa-java/tree/master/0091-decode-ways) |
 ## Sliding Window
 |  |
 | ------- |
