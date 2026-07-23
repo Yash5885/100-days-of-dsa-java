@@ -70,6 +70,7 @@ My 100 Days of DSA journey in Java, solving LeetCode problems and tracking daily
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Yash5885/100-days-of-dsa-java/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0417-pacific-atlantic-water-flow](https://github.com/Yash5885/100-days-of-dsa-java/tree/master/0417-pacific-atlantic-water-flow) |
 | [0133-clone-graph](https://github.com/Yash5885/100-days-of-dsa-java/tree/master/0133-clone-graph) |
+| [0994-rotting-oranges](https://github.com/Yash5885/100-days-of-dsa-java/tree/master/0994-rotting-oranges) |
 ## Binary Tree
 |  |
 | ------- |
@@ -207,6 +208,7 @@ My 100 Days of DSA journey in Java, solving LeetCode problems and tracking daily
 | [0560-subarray-sum-equals-k](https://github.com/Yash5885/100-days-of-dsa-java/tree/master/0560-subarray-sum-equals-k) |
 | [0004-median-of-two-sorted-arrays](https://github.com/Yash5885/100-days-of-dsa-java/tree/master/0004-median-of-two-sorted-arrays) |
 | [0417-pacific-atlantic-water-flow](https://github.com/Yash5885/100-days-of-dsa-java/tree/master/0417-pacific-atlantic-water-flow) |
+| [0994-rotting-oranges](https://github.com/Yash5885/100-days-of-dsa-java/tree/master/0994-rotting-oranges) |
 ## Trie
 |  |
 | ------- |
@@ -216,6 +218,7 @@ My 100 Days of DSA journey in Java, solving LeetCode problems and tracking daily
 | ------- |
 | [0463-island-perimeter](https://github.com/Yash5885/100-days-of-dsa-java/tree/master/0463-island-perimeter) |
 | [0417-pacific-atlantic-water-flow](https://github.com/Yash5885/100-days-of-dsa-java/tree/master/0417-pacific-atlantic-water-flow) |
+| [0994-rotting-oranges](https://github.com/Yash5885/100-days-of-dsa-java/tree/master/0994-rotting-oranges) |
 ## Queue
 |  |
 | ------- |
