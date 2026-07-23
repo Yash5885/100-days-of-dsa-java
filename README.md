@@ -165,6 +165,7 @@ My 100 Days of DSA journey in Java, solving LeetCode problems and tracking daily
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/Yash5885/100-days-of-dsa-java/tree/master/0013-roman-to-integer) |
+| [0002-add-two-numbers](https://github.com/Yash5885/100-days-of-dsa-java/tree/master/0002-add-two-numbers) |
 ## Two Pointers
 |  |
 | ------- |
@@ -258,6 +259,7 @@ My 100 Days of DSA journey in Java, solving LeetCode problems and tracking daily
 | [0876-middle-of-the-linked-list](https://github.com/Yash5885/100-days-of-dsa-java/tree/master/0876-middle-of-the-linked-list) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/Yash5885/100-days-of-dsa-java/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/Yash5885/100-days-of-dsa-java/tree/master/0114-flatten-binary-tree-to-linked-list) |
+| [0002-add-two-numbers](https://github.com/Yash5885/100-days-of-dsa-java/tree/master/0002-add-two-numbers) |
 ## Greedy
 |  |
 | ------- |
@@ -274,4 +276,8 @@ My 100 Days of DSA journey in Java, solving LeetCode problems and tracking daily
 |  |
 | ------- |
 | [0133-clone-graph](https://github.com/Yash5885/100-days-of-dsa-java/tree/master/0133-clone-graph) |
+## Recursion
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/Yash5885/100-days-of-dsa-java/tree/master/0002-add-two-numbers) |
 <!---LeetCode Topics End-->
