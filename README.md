@@ -120,6 +120,7 @@ My 100 Days of DSA journey in Java, solving LeetCode problems and tracking daily
 | [0173-binary-search-tree-iterator](https://github.com/Yash5885/100-days-of-dsa-java/tree/master/0173-binary-search-tree-iterator) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/Yash5885/100-days-of-dsa-java/tree/master/0703-kth-largest-element-in-a-stream) |
 | [0295-find-median-from-data-stream](https://github.com/Yash5885/100-days-of-dsa-java/tree/master/0295-find-median-from-data-stream) |
+| [0146-lru-cache](https://github.com/Yash5885/100-days-of-dsa-java/tree/master/0146-lru-cache) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -140,6 +141,7 @@ My 100 Days of DSA journey in Java, solving LeetCode problems and tracking daily
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Yash5885/100-days-of-dsa-java/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0560-subarray-sum-equals-k](https://github.com/Yash5885/100-days-of-dsa-java/tree/master/0560-subarray-sum-equals-k) |
 | [0133-clone-graph](https://github.com/Yash5885/100-days-of-dsa-java/tree/master/0133-clone-graph) |
+| [0146-lru-cache](https://github.com/Yash5885/100-days-of-dsa-java/tree/master/0146-lru-cache) |
 ## String
 |  |
 | ------- |
@@ -262,6 +264,7 @@ My 100 Days of DSA journey in Java, solving LeetCode problems and tracking daily
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/Yash5885/100-days-of-dsa-java/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/Yash5885/100-days-of-dsa-java/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0002-add-two-numbers](https://github.com/Yash5885/100-days-of-dsa-java/tree/master/0002-add-two-numbers) |
+| [0146-lru-cache](https://github.com/Yash5885/100-days-of-dsa-java/tree/master/0146-lru-cache) |
 ## Greedy
 |  |
 | ------- |
@@ -287,4 +290,8 @@ My 100 Days of DSA journey in Java, solving LeetCode problems and tracking daily
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/Yash5885/100-days-of-dsa-java/tree/master/0207-course-schedule) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [0146-lru-cache](https://github.com/Yash5885/100-days-of-dsa-java/tree/master/0146-lru-cache) |
 <!---LeetCode Topics End-->
