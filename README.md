@@ -73,6 +73,7 @@ My 100 Days of DSA journey in Java, solving LeetCode problems and tracking daily
 | [0133-clone-graph](https://github.com/Yash5885/100-days-of-dsa-java/tree/master/0133-clone-graph) |
 | [0994-rotting-oranges](https://github.com/Yash5885/100-days-of-dsa-java/tree/master/0994-rotting-oranges) |
 | [0207-course-schedule](https://github.com/Yash5885/100-days-of-dsa-java/tree/master/0207-course-schedule) |
+| [0322-coin-change](https://github.com/Yash5885/100-days-of-dsa-java/tree/master/0322-coin-change) |
 ## Binary Tree
 |  |
 | ------- |
@@ -189,6 +190,7 @@ My 100 Days of DSA journey in Java, solving LeetCode problems and tracking daily
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Yash5885/100-days-of-dsa-java/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/Yash5885/100-days-of-dsa-java/tree/master/1373-maximum-sum-bst-in-binary-tree) |
 | [0091-decode-ways](https://github.com/Yash5885/100-days-of-dsa-java/tree/master/0091-decode-ways) |
+| [0322-coin-change](https://github.com/Yash5885/100-days-of-dsa-java/tree/master/0322-coin-change) |
 ## Sliding Window
 |  |
 | ------- |
@@ -214,6 +216,7 @@ My 100 Days of DSA journey in Java, solving LeetCode problems and tracking daily
 | [0004-median-of-two-sorted-arrays](https://github.com/Yash5885/100-days-of-dsa-java/tree/master/0004-median-of-two-sorted-arrays) |
 | [0417-pacific-atlantic-water-flow](https://github.com/Yash5885/100-days-of-dsa-java/tree/master/0417-pacific-atlantic-water-flow) |
 | [0994-rotting-oranges](https://github.com/Yash5885/100-days-of-dsa-java/tree/master/0994-rotting-oranges) |
+| [0322-coin-change](https://github.com/Yash5885/100-days-of-dsa-java/tree/master/0322-coin-change) |
 ## Trie
 |  |
 | ------- |
