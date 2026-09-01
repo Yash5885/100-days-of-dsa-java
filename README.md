@@ -167,6 +167,7 @@ My 100 Days of DSA journey in Java, solving LeetCode problems and tracking daily
 | [0215-kth-largest-element-in-an-array](https://github.com/Yash5885/100-days-of-dsa-java/tree/master/0215-kth-largest-element-in-an-array) |
 | [0977-squares-of-a-sorted-array](https://github.com/Yash5885/100-days-of-dsa-java/tree/master/0977-squares-of-a-sorted-array) |
 | [0295-find-median-from-data-stream](https://github.com/Yash5885/100-days-of-dsa-java/tree/master/0295-find-median-from-data-stream) |
+| [0018-4sum](https://github.com/Yash5885/100-days-of-dsa-java/tree/master/0018-4sum) |
 ## Math
 |  |
 | ------- |
@@ -182,6 +183,7 @@ My 100 Days of DSA journey in Java, solving LeetCode problems and tracking daily
 | [0876-middle-of-the-linked-list](https://github.com/Yash5885/100-days-of-dsa-java/tree/master/0876-middle-of-the-linked-list) |
 | [0977-squares-of-a-sorted-array](https://github.com/Yash5885/100-days-of-dsa-java/tree/master/0977-squares-of-a-sorted-array) |
 | [0295-find-median-from-data-stream](https://github.com/Yash5885/100-days-of-dsa-java/tree/master/0295-find-median-from-data-stream) |
+| [0018-4sum](https://github.com/Yash5885/100-days-of-dsa-java/tree/master/0018-4sum) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -220,6 +222,7 @@ My 100 Days of DSA journey in Java, solving LeetCode problems and tracking daily
 | [0417-pacific-atlantic-water-flow](https://github.com/Yash5885/100-days-of-dsa-java/tree/master/0417-pacific-atlantic-water-flow) |
 | [0994-rotting-oranges](https://github.com/Yash5885/100-days-of-dsa-java/tree/master/0994-rotting-oranges) |
 | [0322-coin-change](https://github.com/Yash5885/100-days-of-dsa-java/tree/master/0322-coin-change) |
+| [0018-4sum](https://github.com/Yash5885/100-days-of-dsa-java/tree/master/0018-4sum) |
 ## Trie
 |  |
 | ------- |
