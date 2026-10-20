@@ -185,6 +185,7 @@ My 100 Days of DSA journey in Java, solving LeetCode problems and tracking daily
 | [0295-find-median-from-data-stream](https://github.com/Yash5885/100-days-of-dsa-java/tree/master/0295-find-median-from-data-stream) |
 | [0018-4sum](https://github.com/Yash5885/100-days-of-dsa-java/tree/master/0018-4sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Yash5885/100-days-of-dsa-java/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0283-move-zeroes](https://github.com/Yash5885/100-days-of-dsa-java/tree/master/0283-move-zeroes) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -225,6 +226,7 @@ My 100 Days of DSA journey in Java, solving LeetCode problems and tracking daily
 | [0322-coin-change](https://github.com/Yash5885/100-days-of-dsa-java/tree/master/0322-coin-change) |
 | [0018-4sum](https://github.com/Yash5885/100-days-of-dsa-java/tree/master/0018-4sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Yash5885/100-days-of-dsa-java/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0283-move-zeroes](https://github.com/Yash5885/100-days-of-dsa-java/tree/master/0283-move-zeroes) |
 ## Trie
 |  |
 | ------- |
