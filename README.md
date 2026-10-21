@@ -174,6 +174,7 @@ My 100 Days of DSA journey in Java, solving LeetCode problems and tracking daily
 | [0013-roman-to-integer](https://github.com/Yash5885/100-days-of-dsa-java/tree/master/0013-roman-to-integer) |
 | [0002-add-two-numbers](https://github.com/Yash5885/100-days-of-dsa-java/tree/master/0002-add-two-numbers) |
 | [0279-perfect-squares](https://github.com/Yash5885/100-days-of-dsa-java/tree/master/0279-perfect-squares) |
+| [0189-rotate-array](https://github.com/Yash5885/100-days-of-dsa-java/tree/master/0189-rotate-array) |
 ## Two Pointers
 |  |
 | ------- |
@@ -186,6 +187,7 @@ My 100 Days of DSA journey in Java, solving LeetCode problems and tracking daily
 | [0018-4sum](https://github.com/Yash5885/100-days-of-dsa-java/tree/master/0018-4sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Yash5885/100-days-of-dsa-java/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0283-move-zeroes](https://github.com/Yash5885/100-days-of-dsa-java/tree/master/0283-move-zeroes) |
+| [0189-rotate-array](https://github.com/Yash5885/100-days-of-dsa-java/tree/master/0189-rotate-array) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -227,6 +229,7 @@ My 100 Days of DSA journey in Java, solving LeetCode problems and tracking daily
 | [0018-4sum](https://github.com/Yash5885/100-days-of-dsa-java/tree/master/0018-4sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Yash5885/100-days-of-dsa-java/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0283-move-zeroes](https://github.com/Yash5885/100-days-of-dsa-java/tree/master/0283-move-zeroes) |
+| [0189-rotate-array](https://github.com/Yash5885/100-days-of-dsa-java/tree/master/0189-rotate-array) |
 ## Trie
 |  |
 | ------- |
